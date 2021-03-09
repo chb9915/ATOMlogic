@@ -399,8 +399,8 @@ EVENTS = {
 
   EventName.resumeRequired: {
     ET.WARNING: Alert(
-      "잠시멈춤",
-      "재출발을 위해 RES버튼을 누르세요",
+      "Auto start",
+      "Stop & go",
       AlertStatus.userPrompt, AlertSize.mid,
       Priority.LOW, VisualAlert.none, AudibleAlert.none, 0., 0., .2),
   },
