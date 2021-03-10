@@ -14,7 +14,7 @@ class kegman_conf():
                   "cvSteerMaxV2":[255,200], "cvSteerDeltaUpV2":[3,2], "cvSteerDeltaDnV2":[5,3], \
                   "steerRatio":12.0, "steerRateCost":0.5, \
                   "tire_stiffness_factor":1.0, \
-                  "deadzone":0.0, "steerOffset":0.0, "cameraOffset":0.06, \
+                  "deadzone":0.0, "steerOffset":0.0, "cameraOffset":0.09, \
                   "steerLimitTimer":0.4,
                   "steerActuatorDelay":0.1 }
 
