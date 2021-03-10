@@ -28,7 +28,7 @@ class AtomConf():
 
 
     self.deadzone = 0.1
-    self.cameraOffset = 0.06
+    self.cameraOffset = 0.12
     self.steerOffset = 0.0
     self.steerRatio = 12.5
     self.steerRateCost = 0.4
