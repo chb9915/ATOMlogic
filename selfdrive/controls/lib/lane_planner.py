@@ -5,7 +5,7 @@ from selfdrive.atom_conf import AtomConf
 
 ATOMC = AtomConf()
 
-CAMERA_OFFSET = 0.00  # m from center car to camera
+CAMERA_OFFSET = 0.06  # m from center car to camera
 
 def compute_path_pinv(l=50):
   deg = 3
