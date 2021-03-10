@@ -1,5 +1,5 @@
 {
-  "cameraOffset": 0.12,
+  "cameraOffset": 0.09,
   "cvBPV": [50, 60, 70, 80, 100, 150, 255],
   "cvSteerDeltaDnV1": [ 8, 7, 6, 5, 5, 5, 4],
   "cvSteerDeltaDnV2": [ 8, 7, 6, 5, 5, 5, 4],
